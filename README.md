@@ -7,6 +7,7 @@ A few notes to help with testing:
 - I had a problem with CORS (cross-origin-resource-sharing) errors when trying to fetch resources using Okta's API. I tried a bunch of things but, I ultimately just disabled CORS in my browser to solve this problem so, if an admin page is stuck on "Loading..", it is probably that CORS error.
 
 - Finally, my Okta dev url is https://dev-684166.okta.com and I made a bunch of users for testing. I'm not sure if you can access their credentials (you probably can) but just in case, here are a couple users, one admin and one regular, so you can sign in to the application:
-User: john.smith@email.com         Password:  Password1
-User: bob.cole@email.com            Password:  Password1
+
+Admin User: john.smith@email.com         Password:  Password1
+Regular User: bob.cole@email.com            Password:  Password1
 
