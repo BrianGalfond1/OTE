@@ -2,6 +2,8 @@
 
 A few notes to help with testing:
 
+- The application runs on port 3000:  http://localhost:3000
+
 - I could not push my node_modules file to the github repository because it was too large. This includes all of the packages installed to run my program (Ex. okta's react package) but I don't think this will be a problem, they can be re-installed on the computer running the application
 
 - I had a problem with CORS (cross-origin-resource-sharing) errors when trying to fetch resources using Okta's API. I tried a bunch of things but, I ultimately just disabled CORS in my browser to solve this problem so, if an admin page is stuck on "Loading..", it is probably that CORS error.
