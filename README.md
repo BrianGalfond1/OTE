@@ -1,4 +1,4 @@
-��# Okta Technical Exercise 2 - By Brian Galfond
+��# Okta Technical Exercise 2 (programmed in React js) - By Brian Galfond
 
 A few notes to help with testing:
 
